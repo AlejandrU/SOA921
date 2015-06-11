@@ -6,7 +6,6 @@ html {
   box-sizing: inherit;
 }
 
-
 .logmod {
   display: block;
   position: fixed;
@@ -196,7 +195,6 @@ html {
   display: table;
 }
 .simform__actions .sumbit {
- 
   height: 48px;
   float: right;
   color: #FFF;
@@ -205,7 +203,6 @@ html {
   font-size: 16px;
   background: #4CAF50;
   margin-top: 7px;
-  ||| <---------------------------------------------------------------------
 }
 .simform__actions .sumbit::after {
   clear: both;
@@ -314,8 +311,6 @@ html {
   line-height: 24px;
   font-family: "Lato", sans-serif;
 }
-
---------------------------------------------------------------------------------------->
 
 .btn, .simform__actions .sumbit {
   display: inline-block;
@@ -610,4 +605,3 @@ html {
   z-index: 999999;
   background-image: url(http://basehold.it/i/24);
 }
-
